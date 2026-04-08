@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "The Guys Next Door LLC",
+    "phone": "+18166828090",
+    "category": "remodeling contractor",
+    "city": "Kansas City",
+    "state": "MO"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "KC's Trusted Remodeling Experts",
+      "heroSubline": "Delivering quality craftsmanship and reliable service to Kansas City homeowners. From minor updates to major renovations, we handle it all.",
+      "aboutTitle": "Built on Integrity, Driven by Results",
+      "aboutText": [
+        "The Guys Next Door LLC started with a simple mission: to provide honest, dependable remodeling services to our Kansas City neighbors. Frustrated by the lack of transparency and quality in the industry, we set out to build a company that prioritizes clear communication and exceptional workmanship.",
+        "Our approach is simple: listen to our clients, understand their vision, and deliver results that exceed expectations. We believe in open communication, meticulous planning, and a commitment to doing the job right the first time. We treat every project, big or small, with the same level of care and attention to detail.",
+        "We're not just contractors; we're members of the Kansas City community. We source materials locally whenever possible, support local businesses, and take pride in contributing to the revitalization of our neighborhoods. We’re committed to building lasting relationships with our clients and being a trusted resource for all their remodeling needs."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Kansas City homes, climate, and building codes."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We show up on time, stick to the budget, and communicate every step of the way."
+        },
+        {
+          "title": "Quality Craftsmanship",
+          "description": "Skilled professionals dedicated to delivering exceptional results that last."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "Clear, detailed estimates with no hidden fees or surprises."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Home?",
+      "ctaSubline": "Get a free consultation and discover how The Guys Next Door can bring your remodeling dreams to life."
+    },
+    "services": [
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Transform your kitchen into the heart of your home.",
+        "description": "A kitchen remodel is one of the best investments you can make in your Kansas City home. Whether you're dreaming of a gourmet chef's kitchen or a cozy family gathering space, The Guys Next Door can bring your vision to life. We handle everything from design and layout to cabinet installation, countertop selection, and appliance upgrades. We understand the unique challenges of remodeling older Kansas City homes, from dealing with quirky layouts to updating outdated plumbing and electrical systems. We'll work closely with you to create a kitchen that's both beautiful and functional, perfectly tailored to your lifestyle. We factor in the Kansas City climate and use materials that can withstand humidity and temperature fluctuations, ensuring your investment lasts for years to come. We also ensure proper ventilation to mitigate moisture issues common in KC kitchens.",
+        "process": [
+          "Step 1: Consultation and Design – Discuss your needs, budget, and style preferences to create a custom design plan.",
+          "Step 2: Material Selection – Choose from a wide range of high-quality cabinets, countertops, flooring, and fixtures.",
+          "Step 3: Demolition and Prep – Careful removal of existing fixtures and preparation of the space for new construction.",
+          "Step 4: Installation and Finishing – Expert installation of all components with meticulous attention to detail."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality",
+          "Enhanced Aesthetics",
+          "Personalized Design"
+        ],
+        "faq": [
+          {
+            "question": "How long does a typical kitchen remodel take?",
+            "answer": "The duration of a kitchen remodel varies depending on the scope of the project, but typically ranges from 6 to 12 weeks. We'll provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Do I need to move out during the remodel?",
+            "answer": "While it's not always necessary to move out, it can be more comfortable, especially during the demolition phase. We'll minimize disruption as much as possible and maintain a clean and safe work environment."
+          },
+          {
+            "question": "What permits are required for a kitchen remodel in Kansas City?",
+            "answer": "Permit requirements vary depending on the extent of the remodel. We'll handle all necessary permit applications and ensure your project complies with local building codes."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Create a spa-like retreat in your own home.",
+        "description": "From small powder room updates to complete master bathroom overhauls, The Guys Next Door can transform your bathroom into a luxurious and functional space. We understand the importance of proper ventilation in Kansas City bathrooms to combat humidity and prevent mold growth. We also specialize in updating plumbing and electrical systems in older homes to meet modern standards. We handle everything from tile installation and vanity replacement to shower and tub upgrades. We source moisture-resistant materials that can withstand the Kansas City climate and ensure your bathroom remodel lasts for years to come. Whether you're looking for a modern, minimalist design or a classic, traditional style, we'll work with you to create a bathroom that reflects your personal taste and meets your specific needs. We address common issues in KC homes like small spaces and dated fixtures.",
+        "process": [
+          "Step 1: Design Consultation – Discuss your vision, budget, and functional requirements.",
+          "Step 2: Material Selection – Choose from a wide range of tiles, fixtures, vanities, and accessories.",
+          "Step 3: Demolition and Plumbing/Electrical – Removal of existing fixtures and updates to plumbing and electrical systems.",
+          "Step 4: Installation and Finishing – Expert installation of all components with meticulous attention to detail."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality",
+          "Enhanced Aesthetics",
+          "Water Conservation"
+        ],
+        "faq": [
+          {
+            "question": "How much does a bathroom remodel typically cost?",
+            "answer": "The cost of a bathroom remodel varies greatly depending on the size of the space, the materials used, and the complexity of the project. We'll provide a detailed estimate after the initial consultation."
+          },
+          {
+            "question": "Can you help me with the design of my new bathroom?",
+            "answer": "Yes, we offer comprehensive design services to help you create the bathroom of your dreams. Our experienced designers will work with you to develop a layout and style that meets your needs and preferences."
+          },
+          {
+            "question": "What type of ventilation is best for a Kansas City bathroom?",
+            "answer": "Proper ventilation is crucial in Kansas City bathrooms to prevent mold and mildew growth. We recommend installing a high-quality exhaust fan that vents to the outside."
+          }
+        ]
+      },
+      {
+        "slug": "basement-finishing",
+        "name": "Basement Finishing",
+        "shortDescription": "Maximize your living space with a professionally finished basement.",
+        "description": "Unlock the hidden potential of your Kansas City basement with The Guys Next Door. We specialize in transforming unfinished basements into functional and comfortable living spaces, adding valuable square footage to your home. We understand the unique challenges of basement finishing in Kansas City, including moisture control, foundation issues, and proper insulation. We'll address these challenges head-on to create a basement that's both dry and energy-efficient. We handle everything from framing and drywall to electrical and plumbing, ensuring your basement is up to code and meets your specific needs. Whether you're looking for a home theater, a game room, a home office, or an extra bedroom, we can bring your vision to life. We pay special attention to waterproofing to combat the high water table and potential for flooding common in the area.",
+        "process": [
+          "Step 1: Assessment and Design – Evaluate your basement's condition and create a design plan that meets your needs.",
+          "Step 2: Waterproofing and Insulation – Ensure proper waterproofing and insulation to prevent moisture and energy loss.",
+          "Step 3: Framing and Drywall – Construct walls and ceilings with precision and attention to detail.",
+          "Step 4: Electrical and Plumbing – Install wiring, outlets, and plumbing fixtures according to code."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Expanded Living Space",
+          "Improved Energy Efficiency",
+          "Customized Design"
+        ],
+        "faq": [
+          {
+            "question": "Do I need a permit to finish my basement in Kansas City?",
+            "answer": "Yes, a permit is required to finish your basement in Kansas City. We'll handle all necessary permit applications and ensure your project complies with local building codes."
+          },
+          {
+            "question": "How do I prevent moisture problems in my finished basement?",
+            "answer": "Proper waterproofing and insulation are essential to prevent moisture problems in your finished basement. We can install a vapor barrier, seal cracks in the foundation, and ensure proper drainage."
+          },
+          {
+            "question": "Can you add a bathroom to my finished basement?",
+            "answer": "Yes, we can add a bathroom to your finished basement. We'll handle all necessary plumbing and electrical work to ensure it's up to code."
+          }
+        ]
+      },
+      {
+        "slug": "deck-patio-construction",
+        "name": "Deck & Patio Construction",
+        "shortDescription": "Extend your living space outdoors with a custom deck or patio.",
+        "description": "Enhance your outdoor living experience with a custom deck or patio from The Guys Next Door. We specialize in designing and building beautiful and functional outdoor spaces that complement your Kansas City home. We understand the importance of using weather-resistant materials that can withstand the harsh Kansas City climate, including hot summers, cold winters, and frequent thunderstorms. We offer a wide range of decking materials, including wood, composite, and PVC, as well as patio materials such as pavers, concrete, and natural stone. Whether you're looking for a spacious deck for entertaining or a cozy patio for relaxing, we can bring your vision to life. We consider the freeze-thaw cycle when building decks to prevent damage from expansion and contraction. We also factor in the clay soil and ensure proper drainage to prevent settling.",
+        "process": [
+          "Step 1: Design Consultation – Discuss your needs, budget, and style preferences to create a custom design plan.",
+          "Step 2: Material Selection – Choose from a wide range of decking or patio materials.",
+          "Step 3: Site Preparation – Prepare the site for construction, including grading, leveling, and excavation.",
+          "Step 4: Construction and Finishing – Expert construction of your deck or patio with meticulous attention to detail."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Expanded Living Space",
+          "Enhanced Aesthetics",
+          "Outdoor Entertainment"
+        ],
+        "faq": [
+          {
+            "question": "What type of decking material is best for Kansas City?",
+            "answer": "Composite decking is a popular choice for Kansas City because it's durable, weather-resistant, and low-maintenance. Wood decking is also a good option, but it requires regular maintenance to prevent rot and decay."
+          },
+          {
+            "question": "Do I need a permit to build a deck or patio in Kansas City?",
+            "answer": "Permit requirements vary depending on the size and scope of the project. We'll handle all necessary permit applications and ensure your project complies with local building codes."
+          },
+          {
+            "question": "How can I protect my deck or patio from the elements?",
+            "answer": "Regular cleaning and sealing can help protect your deck or patio from the elements. We can recommend appropriate cleaning and sealing products for your specific materials."
+          }
+        ]
+      },
+      {
+        "slug": "siding-replacement",
+        "name": "Siding Replacement",
+        "shortDescription": "Protect your home and enhance its curb appeal with new siding.",
+        "description": "Protect your Kansas City home from the elements and enhance its curb appeal with new siding from The Guys Next Door. We offer a wide range of siding options, including vinyl, fiber cement, and wood, to suit your style and budget. We understand the importance of choosing siding that can withstand the harsh Kansas City climate, including hot summers, cold winters, and frequent thunderstorms. We'll help you select the right siding for your home and ensure it's installed properly to prevent moisture damage and energy loss. We address common issues like hail damage and fading from sun exposure. We also ensure proper insulation behind the siding to improve energy efficiency and reduce heating and cooling costs. We work with older homes in Brookside and Waldo as well as newer construction in the Northland.",
+        "process": [
+          "Step 1: Inspection and Consultation – Assess your existing siding and discuss your needs and preferences.",
+          "Step 2: Material Selection – Choose from a wide range of siding materials and colors.",
+          "Step 3: Removal of Old Siding – Carefully remove the existing siding and prepare the surface for new installation.",
+          "Step 4: Installation and Finishing – Expert installation of new siding with meticulous attention to detail."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Energy Efficiency",
+          "Enhanced Curb Appeal",
+          "Protection from the Elements"
+        ],
+        "faq": [
+          {
+            "question": "What type of siding is best for Kansas City homes?",
+            "answer": "Fiber cement siding is a popular choice for Kansas City homes because it's durable, weather-resistant, and low-maintenance. Vinyl siding is also a good option, but it may not be as durable as fiber cement."
+          },
+          {
+            "question": "How much does it cost to replace siding on a house?",
+            "answer": "The cost of siding replacement varies depending on the size of the house, the type of siding used, and the complexity of the project. We'll provide a detailed estimate after the initial consultation."
+          },
+          {
+            "question": "How long does siding replacement take?",
+            "answer": "The duration of siding replacement varies depending on the size of the house and the complexity of the project. We'll provide a detailed timeline during the initial consultation."
+          }
+        ]
+      },
+      {
+        "slug": "window-door-replacement",
+        "name": "Window & Door Replacement",
+        "shortDescription": "Upgrade your home's energy efficiency and aesthetics with new windows and doors.",
+        "description": "Improve your home's energy efficiency, security, and curb appeal with new windows and doors from The Guys Next Door. We offer a wide selection of high-quality windows and doors in various styles and materials to suit your needs and budget. We understand the importance of energy-efficient windows and doors in Kansas City to combat the extreme temperatures and reduce heating and cooling costs. We'll help you choose the right windows and doors for your home and ensure they're installed properly to prevent drafts and air leaks. We address common issues like air infiltration and condensation buildup. We also ensure proper sealing and insulation to maximize energy savings. We work with older homes in neighborhoods like Westport and River Market.",
+        "process": [
+          "Step 1: Consultation and Measurement – Assess your existing windows and doors and take precise measurements.",
+          "Step 2: Product Selection – Choose from a wide range of window and door styles and materials.",
+          "Step 3: Removal of Old Windows and Doors – Carefully remove the existing windows and doors and prepare the openings.",
+          "Step 4: Installation and Finishing – Expert installation of new windows and doors with meticulous attention to detail."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Energy Efficiency",
+          "Enhanced Security",
+          "Noise Reduction"
+        ],
+        "faq": [
+          {
+            "question": "What type of windows are best for energy efficiency in Kansas City?",
+            "answer": "Low-E windows with argon gas filling are a great choice for energy efficiency in Kansas City. These windows help to reduce heat transfer and lower energy costs."
+          },
+          {
+            "question": "How much does it cost to replace windows and doors?",
+            "answer": "The cost of window and door replacement varies depending on the size, style, and material of the windows and doors. We'll provide a detailed estimate after the initial consultation."
+          },
+          {
+            "question": "How long does window and door replacement take?",
+            "answer": "The duration of window and door replacement varies depending on the number of windows and doors being replaced and the complexity of the project. We'll provide a detailed timeline during the initial consultation."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Overland Park",
+        "slug": "overland-park-mo",
+        "state": "MO",
+        "content": "The Guys Next Door LLC is proud to offer our remodeling services to Overland Park, Missouri. Known for its established suburban neighborhoods, primarily built between the 1970s and 1990s, Overland Park homes often benefit from updates to kitchens, bathrooms, and living spaces to better suit modern lifestyles. We understand the unique needs of Overland Park homeowners. \n\nOur team has extensive experience remodeling homes in Overland Park, addressing common concerns like outdated layouts, energy efficiency, and adapting spaces for growing families. We are committed to providing high-quality craftsmanship and exceptional customer service throughout every project, from initial design to final walkthrough. We also understand the need for storm preparedness and can assist with storm damage repairs and preventative upgrades.",
+        "localContext": "Overland Park's established neighborhoods often feature mature trees and well-maintained properties, but can be vulnerable to severe winter weather with ice storms.",
+        "nearbyAreas": [
+          "Leawood",
+          "Lenexa",
+          "Prairie Village"
+        ]
+      },
+      {
+        "city": "Olathe",
+        "slug": "olathe-mo",
+        "state": "MO",
+        "content": "The Guys Next Door LLC is dedicated to providing top-notch remodeling services in Olathe, Missouri. With a significant amount of family-oriented developments constructed between the 1980s and 2000s, Olathe homes often require remodeling to accommodate changing family needs and upgrade outdated features. We are familiar with the common architectural styles and construction methods found in Olathe.\n\nWe specialize in kitchen and bathroom remodels, basement finishing, and home additions, tailored to the specific requirements of Olathe homeowners. Our commitment to quality and customer satisfaction ensures a seamless remodeling experience. We are also aware of the impact of harsh winters and can provide advice on weatherproofing homes.",
+        "localContext": "Olathe is characterized by its family-friendly atmosphere and newer housing developments, making it a popular choice for young families.",
+        "nearbyAreas": [
+          "Gardner",
+          "Lenexa",
+          "Spring Hill"
+        ]
+      },
+      {
+        "city": "Lee's Summit",
+        "slug": "lee-s-summit-mo",
+        "state": "MO",
+        "content": "The Guys Next Door LLC proudly serves the Lee's Summit, Missouri community with comprehensive remodeling solutions. Lee's Summit features many established family homes built in the 1970s through 1990s, which often require updates to enhance functionality and aesthetics. We understand the unique challenges and opportunities presented by these homes.\n\nOur team excels in providing customized remodeling services, including kitchen and bathroom renovations, basement finishing, and whole-house transformations. We are committed to delivering exceptional craftsmanship and personalized service to every Lee's Summit homeowner. We are also experienced in handling storm damage and providing preventative solutions.",
+        "localContext": "Lee's Summit is known for its strong sense of community and its mix of established neighborhoods and newer developments.",
+        "nearbyAreas": [
+          "Blue Springs",
+          "Raytown",
+          "Grandview"
+        ]
+      },
+      {
+        "city": "Kansas City",
+        "slug": "kansas-city-mo",
+        "state": "MO",
+        "content": "The Guys Next Door LLC provides remodeling services throughout Kansas City, Missouri. From historic homes in the urban core to newer constructions in the suburbs, Kansas City offers a diverse range of architectural styles and remodeling needs. We are equipped to handle projects of any size and complexity.\n\nWe specialize in kitchen and bathroom remodels, historic renovations, and home additions, tailored to the specific requirements of Kansas City homeowners. We are committed to quality workmanship and customer satisfaction. We also offer solutions for weatherizing your home against the harsh Missouri winters.",
+        "localContext": "Kansas City's diverse neighborhoods offer a mix of historic charm and modern amenities, requiring a versatile remodeling approach.",
+        "nearbyAreas": [
+          "Independence",
+          "Gladstone",
+          "Liberty"
+        ]
+      },
+      {
+        "city": "Independence",
+        "slug": "independence-mo",
+        "state": "MO",
+        "content": "The Guys Next Door LLC extends its remodeling expertise to Independence, Missouri. Independence boasts a rich history and a diverse housing stock, ranging from historic homes to more modern developments. We understand the unique challenges and opportunities presented by each type of property.\n\nWe offer a full range of remodeling services, including kitchen and bathroom renovations, basement finishing, and historic restorations. Our team is committed to providing exceptional craftsmanship and personalized service to every Independence homeowner. We also know about the importance of preparing for severe weather.",
+        "localContext": "Independence is known for its historic sites and its blend of residential and commercial areas.",
+        "nearbyAreas": [
+          "Kansas City",
+          "Blue Springs",
+          "Raytown"
+        ]
+      },
+      {
+        "city": "Blue Springs",
+        "slug": "blue-springs-mo",
+        "state": "MO",
+        "content": "The Guys Next Door LLC is proud to serve the Blue Springs, Missouri community with high-quality remodeling services. Blue Springs features a mix of established neighborhoods and newer developments, catering to a wide range of homeowners. We are familiar with the common architectural styles and construction methods found in the area.\n\nOur team specializes in kitchen and bathroom remodels, basement finishing, and home additions, tailored to the specific needs of Blue Springs residents. We are committed to providing exceptional craftsmanship and customer satisfaction throughout every project. We are also aware of the potential for storm damage and can help protect your home.",
+        "localContext": "Blue Springs offers a family-friendly environment and a growing community with diverse housing options.",
+        "nearbyAreas": [
+          "Lee's Summit",
+          "Independence",
+          "Grain Valley"
+        ]
+      },
+      {
+        "city": "Lenexa",
+        "slug": "lenexa-mo",
+        "state": "MO",
+        "content": "The Guys Next Door LLC offers professional remodeling services in Lenexa, Missouri. Lenexa is known for its blend of residential, commercial, and industrial areas, with homes ranging from established neighborhoods to newer constructions. We are equipped to handle a variety of remodeling projects in Lenexa.\n\nWe specialize in kitchen and bathroom remodels, basement finishing, and home additions, tailored to the specific needs of Lenexa homeowners. Our commitment to quality and customer satisfaction ensures a seamless remodeling experience. We can also help with weatherproofing your home for the winter.",
+        "localContext": "Lenexa's strategic location and diverse economy make it a desirable place to live and work.",
+        "nearbyAreas": [
+          "Overland Park",
+          "Olathe",
+          "Shawnee"
+        ]
+      },
+      {
+        "city": "Shawnee",
+        "slug": "shawnee-mo",
+        "state": "MO",
+        "content": "The Guys Next Door LLC provides reliable remodeling services to the residents of Shawnee, Missouri. Shawnee features a mix of established neighborhoods and newer developments, offering a variety of housing options. We are experienced in remodeling homes of all ages and styles in Shawnee.\n\nOur team offers a full range of remodeling services, including kitchen and bathroom renovations, basement finishing, and whole-house transformations. We are committed to delivering exceptional craftsmanship and personalized service to every Shawnee homeowner. We understand the need to protect your home from the elements.",
+        "localContext": "Shawnee offers a blend of suburban living and convenient access to urban amenities.",
+        "nearbyAreas": [
+          "Lenexa",
+          "Overland Park",
+          "Kansas City"
+        ]
+      },
+      {
+        "city": "Raytown",
+        "slug": "raytown-mo",
+        "state": "MO",
+        "content": "The Guys Next Door LLC is a trusted remodeling contractor serving Raytown, Missouri. Raytown features many established homes built in the mid-20th century, which often require updates to enhance functionality and aesthetics. We understand the unique challenges and opportunities presented by these homes.\n\nOur team excels in providing customized remodeling services, including kitchen and bathroom renovations, basement finishing, and whole-house transformations. We are committed to delivering exceptional craftsmanship and personalized service to every Raytown homeowner. We also offer solutions for storm damage and preventative upgrades.",
+        "localContext": "Raytown is known for its close-knit community and its convenient location within the Kansas City metropolitan area.",
+        "nearbyAreas": [
+          "Kansas City",
+          "Independence",
+          "Lee's Summit"
+        ]
+      },
+      {
+        "city": "Gladstone",
+        "slug": "gladstone-mo",
+        "state": "MO",
+        "content": "The Guys Next Door LLC is proud to offer our remodeling services to Gladstone, Missouri. Gladstone is a well-established community with a mix of housing styles, many of which were built in the mid-20th century. These homes can greatly benefit from modern updates and renovations, which we are proud to offer.\n\nOur team specializes in kitchen and bathroom remodels, basement finishing, and home additions, tailored to the specific needs of Gladstone homeowners. Our commitment to quality and customer satisfaction ensures a seamless remodeling experience. We also offer solutions for weatherizing your home against the harsh Missouri winters.",
+        "localContext": "Gladstone is a vibrant city known for its parks, community events, and convenient access to Kansas City.",
+        "nearbyAreas": [
+          "Kansas City",
+          "Liberty",
+          "North Kansas City"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Kitchen Remodel",
+        "text": "The Guys Next Door completely transformed our outdated kitchen! They were professional, communicative, and the quality of their work is outstanding. We especially appreciated their attention to detail and how they kept the project on schedule and within budget. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Basement Finishing",
+        "text": "We hired The Guys Next Door to finish our basement, and we're very happy with the results. They turned a damp, unused space into a functional family room. There were a couple of minor hiccups along the way, but they addressed them promptly and professionally. Good value for the price.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Bathroom Remodel",
+        "text": "The Guys Next Door did an amazing job remodeling our master bathroom. From the initial design consultation to the final walk-through, they were a pleasure to work with. The tile work is impeccable, and the new fixtures are beautiful. We now have a spa-like retreat in our own home!",
+        "date": "2025-01-08"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Siding Replacement",
+        "text": "Our old siding was falling apart, and The Guys Next Door gave our house a much-needed facelift. The new siding looks fantastic, and we've already noticed a difference in our energy bills. The crew was efficient and professional, and they cleaned up the job site thoroughly. A great job from start to finish.",
+        "date": "2024-09-28"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Deck Construction",
+        "text": "We absolutely love our new deck! The Guys Next Door helped us design the perfect outdoor space for entertaining. The construction quality is excellent, and the deck is incredibly sturdy. The only reason I'm not giving 5 stars is that the project took a bit longer than initially estimated, but the end result was worth the wait.",
+        "date": "2025-02-10"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "Window Replacement",
+        "text": "The Guys Next Door replaced all the windows in our 1920s Brookside home. They were careful to preserve the original character of the house while improving energy efficiency. The new windows look great and have made a huge difference in keeping our home warm in the winter.",
+        "date": "2024-12-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "KC Remodeling | The Guys Next Door",
+        "description": "Kansas City's trusted remodeling contractor. Kitchens, bathrooms, basements, decks, siding, windows. Free estimates."
+      },
+      "about": {
+        "title": "About Us | The Guys Next Door LLC",
+        "description": "Learn about our commitment to quality remodeling in Kansas City. Local experts, reliable service, exceptional craftsmanship."
+      },
+      "services": {
+        "title": "Our Services | KC Remodeling Experts",
+        "description": "Comprehensive remodeling services in Kansas City. Kitchens, bathrooms, basements, decks, siding, windows, and more."
+      },
+      "contact": {
+        "title": "Contact Us | The Guys Next Door LLC",
+        "description": "Get a free quote for your Kansas City remodeling project. Call us today! +18166828090"
+      },
+      "reviews": {
+        "title": "Customer Reviews | The Guys Next Door",
+        "description": "Read what our satisfied customers are saying about our remodeling services in Kansas City. Quality work, reliable service."
+      },
+      "service-areas": {
+        "title": "Service Areas | KC Remodeling Contractor",
+        "description": "We serve Kansas City, Overland Park, Olathe, Lee's Summit, and surrounding areas. Get a free estimate today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "basement-finishing": "/images/service-basement-finishing.webp",
+      "deck-patio-construction": "/images/service-deck-patio-construction.webp",
+      "siding-replacement": "/images/service-siding-replacement.webp",
+      "window-door-replacement": "/images/service-window-door-replacement.webp"
+    },
+    "servicesResponsive": {
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "basement-finishing": {
+        "src": "/images/service-basement-finishing.webp",
+        "srcset": "/images/service-basement-finishing-400w.webp 400w, /images/service-basement-finishing-800w.webp 800w, /images/service-basement-finishing-1200w.webp 1200w, /images/service-basement-finishing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-patio-construction": {
+        "src": "/images/service-deck-patio-construction.webp",
+        "srcset": "/images/service-deck-patio-construction-400w.webp 400w, /images/service-deck-patio-construction-800w.webp 800w, /images/service-deck-patio-construction-1200w.webp 1200w, /images/service-deck-patio-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-replacement": {
+        "src": "/images/service-siding-replacement.webp",
+        "srcset": "/images/service-siding-replacement-400w.webp 400w, /images/service-siding-replacement-800w.webp 800w, /images/service-siding-replacement-1200w.webp 1200w, /images/service-siding-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-door-replacement": {
+        "src": "/images/service-window-door-replacement.webp",
+        "srcset": "/images/service-window-door-replacement-400w.webp 400w, /images/service-window-door-replacement-800w.webp 800w, /images/service-window-door-replacement-1200w.webp 1200w, /images/service-window-door-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

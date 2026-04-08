@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-the-guys-next-door-llc.dream-surge.com/sitemap-index.xml
